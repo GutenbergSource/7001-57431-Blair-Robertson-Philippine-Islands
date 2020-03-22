@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>The Philippine Islands, 1493–1898: explorations by early navigators, descriptions of the islands and their peoples, their history and records of the catholic missions, as related in contemporaneous books and manuscripts, showing the political, economic, commercial and religious conditions of those islands from their earliest relations with European nations to the close of the nineteenth century, Volume XXVI, 1636</dc:title>
+      <dc:creator>Emma Helen Blair (1851–1911)</dc:creator>
+      <dc:creator>James Alexander Robertson (1873–1939)</dc:creator>
+      <dc:creator>Edward Gaylord Bourne (1860–1908)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2008-11-02</dc:publisher>
+      <dc:date>2008-11-02</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+gbn1415: Blair &amp; Robertson, The Philippine Islands 1493–1898 (55 volumes on CDROM). Jeroen Hellingman &lt;jehe@kabelfoon.nl&gt;. modern CD-based reissue of 1903p. 1/19/2004. ok but leave out any modern materials if present.
+</dc:rights>
+      <dc:identifier>pg:27127</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>

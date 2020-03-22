@@ -1,0 +1,28 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="219" filedate="2018-12-01 14:10:25" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="230" filedate="2018-12-01 14:10:25" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="151" filedate="2018-05-12 12:01:33" width="12px" height="12px">
+</image>
+<image path="images/frontispiece.jpg" filesize="147914" filedate="2018-07-01 12:12:57" width="720px" height="567px">
+</image>
+<image path="images/frontispieceh.jpg" filesize="701101" filedate="2018-07-01 12:12:58" width="1536px" height="1210px">
+</image>
+<image path="images/new-cover.jpg" filesize="49065" filedate="2018-07-01 12:12:58" width="480px" height="720px">
+</image>
+<image path="images/p037.jpg" filesize="66059" filedate="2018-07-01 12:12:58" width="624px" height="407px">
+</image>
+<image path="images/p209.jpg" filesize="102860" filedate="2018-07-01 12:12:58" width="639px" height="496px">
+</image>
+<image path="images/p337.jpg" filesize="31640" filedate="2018-07-01 12:12:58" width="485px" height="266px">
+</image>
+<image path="images/p347.jpg" filesize="81012" filedate="2018-07-01 12:12:59" width="622px" height="467px">
+</image>
+<image path="images/p355.jpg" filesize="62925" filedate="2018-07-01 12:12:59" width="562px" height="409px">
+</image>
+<image path="images/qrcode.png" filesize="266" filedate="2018-12-01 14:10:36" width="148px" height="148px">
+</image>
+<image path="images/titlepage.png" filesize="20889" filedate="2018-12-01 14:10:43" width="411px" height="720px">
+</image>
+</images>

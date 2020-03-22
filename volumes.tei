@@ -1,0 +1,102 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN">
+<TEI.2>
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Overview of Volumes</title>
+            <respStmt><resp>compiled by</resp> <name>Jeroen Hellignman</name></respStmt>
+        </titleStmt>
+        <publicationStmt><distributor>Project Gutenberg</distributor></publicationStmt>
+        <sourceDesc>
+            <p>Born digital: no previous source exists.
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+<text>
+<body>
+<div1 id=overview type=Contents>
+<head>Overview of volumes of the Philippine Islands, 1493&ndash;1898</head>
+
+<p>The following table gives an overview of all volumes of Blair &amp; Robertson&apos; <hi>Philippine Islands, 1493&ndash;1898</hi> available from Project Gutenberg, and page scans available from the Internet Archive.
+
+<p><table id=tblVolumes rend="class(verticalBorderInside)">
+<column rend="align(right)">
+<column>
+<column>
+<column>
+<column rend="align(right)">
+<column>
+
+<row role=label><cell>Volume  <cell>Years Covered         <cell>Year Published    <cell>Pages          <cell>PG                                 <cell>Scans Internet Archive
+
+<row><cell>I       <cell>1493&ndash;1529                  <cell>1903              <cell>357            <cell><xref url="pg:13255">13255</xref>  <cell><xref url="https://archive.org/details/philippineislan15bourgoog">1</xref> <xref url="https://archive.org/details/philippineislan12bourgoog">2</xref>
+<row><cell>II      <cell>1521&ndash;1569                  <cell>1903              <cell>335            <cell><xref url="pg:13280">13280</xref>  <cell><xref url="https://archive.org/details/philippineislan90bourgoog">1</xref>
+<row><cell>III     <cell>1569&ndash;1576                  <cell>1903              <cell>317            <cell><xref url="pg:13616">13616</xref>  <cell><xref url="https://archive.org/details/philippineislan144bourgoog">1</xref> <xref url="https://archive.org/details/philippineislan129bourgoog">2</xref>
+<row><cell>IV      <cell>1576&ndash;1582                  <cell>1903              <cell>320            <cell><xref url="pg:12635">12635</xref>  <cell><xref url="https://archive.org/details/philippineislan128bourgoog">1</xref> <xref url="https://archive.org/details/philippineislan137bourgoog">2</xref>
+<row><cell>V       <cell>1582&ndash;1583                  <cell>1903              <cell>320            <cell><xref url="pg:16501">16501</xref>  <cell><xref url="https://archive.org/details/philippineislan134bourgoog">1</xref> <xref url="https://archive.org/details/philippineislan127bourgoog">2</xref>
+<row><cell>VI      <cell>1583&ndash;1588                  <cell>1903              <cell>325            <cell><xref url="pg:13120">13120</xref>  <cell><xref url="https://archive.org/details/philippineislan105bourgoog">1</xref> <xref url="https://archive.org/details/philippineislan28bourgoog">2</xref>
+<row><cell>VII     <cell>1588&ndash;1591                  <cell>1903              <cell>320            <cell><xref url="pg:13701">13701</xref>  <cell><xref url="https://archive.org/details/philippineislan47bourgoog">1</xref>
+<row><cell>VIII    <cell>1591&ndash;1593                  <cell>1903              <cell>320            <cell><xref url="pg:13742">13742</xref>  <cell><xref url="https://archive.org/details/philippineislan00bourgoog">1</xref> <xref url="https://archive.org/details/philippineislan32bourgoog">2</xref>
+<row><cell>IX      <cell>1593&ndash;1597                  <cell>1903              <cell>329            <cell><xref url="pg:14265">14265</xref>  <cell><xref url="https://archive.org/details/philippineislan115bourgoog">1</xref>
+<row><cell>X       <cell>1597&ndash;1599                  <cell>1903              <cell>318            <cell><xref url="pg:14266">14266</xref>  <cell><xref url="https://archive.org/details/philippineislan10bourgoog">1</xref>
+<row><cell>XI      <cell>1599&ndash;1602                  <cell>1903              <cell>319            <cell><xref url="pg:14685">14685</xref>  <cell><xref url="https://archive.org/details/philippineislan57bourgoog">1</xref>
+
+<row><cell>XII     <cell>1601&ndash;1604                  <cell>1904              <cell>324            <cell><xref url="pg:15022">15022</xref>  <cell><xref url="https://archive.org/details/philippineislan42bourgoog">1</xref>
+<row><cell>XIII    <cell>1604&ndash;1605                  <cell>1904              <cell>318            <cell><xref url="pg:15184">15184</xref>  <cell><xref url="https://archive.org/details/philippineislan80bourgoog">1</xref> <xref url="https://archive.org/details/philippineislan119bourgoog">2</xref>
+<row><cell>XIV     <cell>1605&ndash;1609                  <cell>1904              <cell>341            <cell><xref url="pg:15445">15445</xref>  <cell><xref url="https://archive.org/details/philippineislan98bourgoog">1</xref>
+<row><cell>XV      <cell>1609                             <cell>1904              <cell>331            <cell><xref url="pg:7001">7001</xref>    <cell><xref url="https://archive.org/details/philippineislan07bourgoog">1</xref> <xref url="https://archive.org/details/philippineislan05bourgoog">2</xref>
+<row><cell>XVI     <cell>1609                             <cell>1904              <cell>329            <cell><xref url="pg:15157">15157</xref>  <cell><xref url="https://archive.org/details/philippineislan03bourgoog">1</xref>
+<row><cell>XVII    <cell>1609&ndash;1616                  <cell>1904              <cell>336            <cell><xref url="pg:15530">15530</xref>  <cell><xref url="https://archive.org/details/philippineislan26bourgoog">1</xref> <xref url="https://archive.org/details/philippineislan107bourgoog">2</xref>
+<row><cell>XVIII   <cell>1617&ndash;1620                  <cell>1904              <cell>346            <cell><xref url="pg:15564">15564</xref>  <cell><xref url="https://archive.org/details/philippineislan41bourgoog">1</xref> <xref url="https://archive.org/details/philippineislan13bourgoog">2</xref>
+<row><cell>XIX     <cell>1620&ndash;1621                  <cell>1904              <cell>319            <cell><xref url="pg:16086">16086</xref>  <cell><xref url="https://archive.org/details/philippineislan11bourgoog">1</xref> <xref url="https://archive.org/details/philippineislan24bourgoog">2</xref>
+<row><cell>XX      <cell>1621&ndash;1624                  <cell>1904              <cell>306            <cell><xref url="pg:16133">16133</xref>  <cell><xref url="https://archive.org/details/cu31924070600022">1</xref> <xref url="https://archive.org/details/philippineislan111bourgoog">2</xref>
+
+<row><cell>XXI     <cell>1624                             <cell>1905              <cell>320            <cell><xref url="pg:16203">16203</xref>  <cell><xref url="https://archive.org/details/philippineislan55bourgoog">1</xref> <xref url="https://archive.org/details/philippineislan108bourgoog">2</xref>
+<row><cell>XXII    <cell>1625&ndash;1629                  <cell>1905              <cell>319            <cell><xref url="pg:16297">16297</xref>  <cell><xref url="https://archive.org/details/philippineislan120bourgoog">1</xref> <xref url="https://archive.org/details/philippineislan33bourgoog">2</xref>
+<row><cell>XXIII   <cell>1629&ndash;1630                  <cell>1905              <cell>298            <cell><xref url="pg:16451">16451</xref>  <cell><xref url="https://archive.org/details/philippineislan136bourgoog">1</xref> <xref url="https://archive.org/details/philippineislan76bourgoog">2</xref> <xref url="https://archive.org/details/philippineislan46bourgoog">3</xref>
+<row><cell>XXIV    <cell>1630&ndash;1634                  <cell>1905              <cell>340            <cell><xref url="pg:18102">18102</xref>  <cell><xref url="https://archive.org/details/philippineislan141bourgoog">1</xref> <xref url="https://archive.org/details/philippineislan103bourgoog">2</xref> <xref url="https://archive.org/details/philippineislan112bourgoog">3</xref>
+<row><cell>XXV     <cell>1635&ndash;1636                  <cell>1905              <cell>322            <cell><xref url="pg:19118">19118</xref>  <cell><xref url="https://archive.org/details/philippineislan114bourgoog">1</xref>
+<row><cell>XXVI    <cell>1636                             <cell>1905              <cell>313            <cell><xref url="pg:27127">27127</xref>  <cell><xref url="https://archive.org/details/cu31924070600089">1</xref> <xref url="https://archive.org/details/philippineislan64bourgoog">2</xref> <xref url="https://archive.org/details/philippineislan02bourgoog">3</xref>
+<row><cell>XXVII   <cell>1636&ndash;1637                  <cell>1905              <cell>366            <cell><xref url="pg:26004">26004</xref>  <cell><xref url="https://archive.org/details/philippineislan22bourgoog">1</xref> <xref url="https://archive.org/details/philippineislan01bourgoog">2</xref>
+<row><cell>XXVIII  <cell>1637&ndash;1638                  <cell>1905              <cell>370            <cell><xref url="pg:25930">25930</xref>  <cell><xref url="https://archive.org/details/philippineislan23bourgoog">1</xref> <xref url="https://archive.org/details/philippineislan106bourgoog">2</xref>
+<row><cell>XXIX    <cell>1638&ndash;1640                  <cell>1905              <cell>315            <cell><xref url="pg:38748">38748</xref>  <cell><xref url="https://archive.org/details/philippineislan19bourgoog">1</xref>
+<row><cell>XXX     <cell>1640                             <cell>1905              <cell>321            <cell><xref url="pg:39054">39054</xref>  <cell><xref url="https://archive.org/details/philippineislan126bourgoog">1</xref> <xref url="https://archive.org/details/philippineislan122bourgoog">2</xref>
+<row><cell>XXXI    <cell>1640                             <cell>1905              <cell>300            <cell><xref url="pg:42399">42399</xref>  <cell><xref url="https://archive.org/details/philippineislan85bourgoog">1</xref>
+<row><cell>XXXII   <cell>1640                             <cell>1905              <cell>296            <cell><xref url="pg:42458">42458</xref>  <cell><xref url="https://archive.org/details/philippineislan86bourgoog">1</xref>
+
+<row><cell>XXXIII  <cell>1519&ndash;1522                  <cell>1906              <cell>366            <cell><xref url="pg:42884">42884</xref>  <cell><xref url="https://archive.org/details/philippineislan08bourgoog">1</xref>
+<row><cell>XXXIV   <cell>1519&ndash;1522; 1280&ndash;1605 <cell>1906              <cell>453            <cell><xref url="pg:47927">47927</xref>  <cell><xref url="https://archive.org/details/cu31924070600162">1</xref> <xref url="https://archive.org/details/philippineislan118bourgoog">2</xref> <xref url="https://archive.org/details/philippineislan36bourgoog">3</xref>
+<row><cell>XXXV    <cell>1640&ndash;1649                  <cell>1906              <cell>325            <cell><xref url="pg:45101">45101</xref>  <cell><xref url="https://archive.org/details/cu31924070600170">1</xref> <xref url="https://archive.org/details/philippineislan16bourgoog">2</xref>
+<row><cell>XXXVI   <cell>1649&ndash;1666                  <cell>1906              <cell>308            <cell><xref url="pg:30350">30350</xref>  <cell><xref url="https://archive.org/details/cu31924070600188">1</xref> <xref url="https://archive.org/details/philippineislan104bourgoog">2</xref>
+<row><cell>XXXVII  <cell>1669&ndash;1676                  <cell>1906              <cell>306            <cell><xref url="pg:47953">47953</xref>  <cell><xref url="https://archive.org/details/cu31924070600196">1</xref> <xref url="https://archive.org/details/philippineislan51bourgoog">2</xref> <xref url="https://archive.org/details/philippineislan121bourgoog">3</xref>
+<row><cell>XXXVIII <cell>1674&ndash;1683                  <cell>1906              <cell>285            <cell><xref url="pg:50111">50111</xref>  <cell><xref url="https://archive.org/details/cu31924070600204">1</xref> <xref url="https://archive.org/details/philippineislan14bourgoog">2</xref> <xref url="https://archive.org/details/philippineislan45bourgoog">3</xref>
+<row><cell>XXXIX   <cell>1683&ndash;1690                  <cell>1906              <cell>302            <cell><xref url="pg:28899">28899</xref>  <cell><xref url="https://archive.org/details/cu31924070600212">1</xref> <xref url="https://archive.org/details/philippineislan54bourgoog">2</xref>
+<row><cell>XL      <cell>1690&ndash;1691                  <cell>1906              <cell>373            <cell><xref url="pg:30253">30253</xref>  <cell><xref url="https://archive.org/details/philippineislan93bourgoog">1</xref>
+<row><cell>XLI     <cell>1691&ndash;1700                  <cell>1906              <cell>324            <cell><xref url="pg:30397">30397</xref>  <cell><xref url="https://archive.org/details/cu31924070600238">1</xref> <xref url="https://archive.org/details/philippineislan34bourgoog">2</xref>
+<row><cell>XLII    <cell>1670&ndash;1700                  <cell>1906              <cell>312            <cell><xref url="pg:34384">34384</xref>  <cell><xref url="https://archive.org/details/cu31924070600246">1</xref> <xref url="https://archive.org/details/philippineislan138bourgoog">2</xref> <xref url="https://archive.org/details/philippineislan116bourgoog">3</xref> <xref url="https://archive.org/details/philippineislan102bourgoog">4</xref>
+<row><cell>XLIII   <cell>1670&ndash;1700                  <cell>1906              <cell>319            <cell><xref url="pg:35391">35391</xref>  <cell><xref url="https://archive.org/details/cu31924070600253">1</xref> <xref url="https://archive.org/details/philippineislan43bourgoog">2</xref>
+<row><cell>XLIV    <cell>1700&ndash;1736                  <cell>1906              <cell>312            <cell><xref url="pg:50151">50151</xref>  <cell><xref url="https://archive.org/details/cu31924070600261">1</xref> <xref url="https://archive.org/details/philippineislan99bourgoog">2</xref>
+<row><cell>XLV     <cell>1736                             <cell>1906              <cell>331            <cell><xref url="pg:50245">50245</xref>  <cell><xref url="https://archive.org/details/philippineislan94bourgoog">1</xref> <xref url="https://archive.org/details/philippineislan110bourgoog">2</xref>
+
+<row><cell>XLVI    <cell>1721&ndash;1739                  <cell>1907              <cell>376            <cell><xref url="pg:52681">52681</xref>  <cell><xref url="https://archive.org/details/philippineislan27bourgoog">1</xref>
+<row><cell>XLVII   <cell>1728&ndash;1759                  <cell>1907              <cell>332            <cell><xref url="pg:54041">54041</xref>  <cell><xref url="https://archive.org/details/philippineislan61bourgoog">1</xref> <xref url="https://archive.org/details/philippineislan44bourgoog">2</xref>
+<row><cell>XLVIII  <cell>1751&ndash;1765                  <cell>1907              <cell>338            <cell><xref url="pg:54740">54740</xref>  <cell><xref url="https://archive.org/details/philippineislan101bourgoog">1</xref>
+<row><cell>XLIX    <cell>1762&ndash;1765                  <cell>1907              <cell>348            <cell><xref url="pg:56778">56778</xref>  <cell><xref url="https://archive.org/details/philippineislan58bourgoog">1</xref>
+<row><cell>L       <cell>1764&ndash;1800                  <cell>1907              <cell>322            <cell><xref url="pg:57189">57189</xref>  <cell><xref url="https://archive.org/details/philippineislan92bourgoog">1</xref>
+<row><cell>LI      <cell>1801&ndash;1840                  <cell>1907              <cell>317            <cell><xref url="pg:57304">57304</xref>  <cell><xref url="https://archive.org/details/cu31924070600337">1</xref> <xref url="https://archive.org/details/philippineislan69bourgoog">2</xref> <xref url="https://archive.org/details/philippineislan124bourgoog">3</xref>
+<row><cell>LII     <cell>1841&ndash;1898                  <cell>1907              <cell>357            <cell><xref url="pg:57431">57431</xref>  <cell><xref url="https://archive.org/details/philippineislan25bourgoog">1</xref> <xref url="https://archive.org/details/philippineislan113bourgoog">2</xref>
+
+<row><cell>LIII    <cell><hi>Bibliography</hi>            <cell>1908              <cell>433            <cell>                                   <cell><xref url="https://archive.org/details/philippineislan142bourgoog">1</xref> <xref url="https://archive.org/details/philippineislan95bourgoog">2</xref>
+
+<row><cell>LIV     <cell><hi>Index A&ndash;I</hi>         <cell>1909              <cell>482            <cell>                                   <cell><xref url="https://archive.org/details/philippineislan75bourgoog">1</xref>
+<row><cell>LV      <cell><hi>Index J&ndash;Z</hi>         <cell>1909              <cell>487&ndash;968  <cell>                                   <cell><xref url="https://archive.org/details/philippineislan00conggoog">1</xref> <xref url="https://archive.org/details/philippineislan123bourgoog">2</xref>
+
+<row><cell cols=3 rend="text-align(right)"><hi>Total Number of Pages</hi> <cell role=sum>18512 <cell cols=2>
+</table>
+
+
+</div1>
+</body>
+</text>
+</TEI.2>
+

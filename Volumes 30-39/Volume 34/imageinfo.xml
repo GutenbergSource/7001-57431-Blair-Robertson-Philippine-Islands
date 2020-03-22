@@ -1,0 +1,38 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="219" filedate="2018-12-01 14:06:54" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="230" filedate="2018-12-01 14:06:54" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="151" filedate="2018-05-12 12:00:56" width="12px" height="12px">
+</image>
+<image path="images/maltese.png" filesize="292" filedate="2018-12-01 14:06:54" width="27px" height="26px">
+</image>
+<image path="images/new-cover.jpg" filesize="87012" filedate="2018-05-12 12:00:57" width="480px" height="720px">
+</image>
+<image path="images/p072.jpg" filesize="47582" filedate="2018-05-12 12:00:57" width="446px" height="635px">
+</image>
+<image path="images/p104.jpg" filesize="66389" filedate="2018-05-12 12:00:57" width="491px" height="632px">
+</image>
+<image path="images/p110.jpg" filesize="68140" filedate="2018-05-12 12:00:57" width="437px" height="617px">
+</image>
+<image path="images/p114.jpg" filesize="62643" filedate="2018-05-12 12:00:57" width="439px" height="633px">
+</image>
+<image path="images/p118.jpg" filesize="50740" filedate="2018-05-12 12:00:57" width="437px" height="562px">
+</image>
+<image path="images/p124.jpg" filesize="67955" filedate="2018-05-12 12:00:57" width="433px" height="609px">
+</image>
+<image path="images/p146.jpg" filesize="69477" filedate="2018-05-12 12:00:57" width="508px" height="553px">
+</image>
+<image path="images/p150.jpg" filesize="118682" filedate="2018-05-12 12:00:57" width="720px" height="516px">
+</image>
+<image path="images/p150h.jpg" filesize="698121" filedate="2018-05-12 12:00:58" width="1836px" height="1316px">
+</image>
+<image path="images/p190.jpg" filesize="62261" filedate="2018-05-12 12:00:58" width="395px" height="579px">
+</image>
+<image path="images/p384.jpg" filesize="52645" filedate="2018-05-12 12:00:59" width="609px" height="500px">
+</image>
+<image path="images/qrcode.png" filesize="267" filedate="2018-12-01 14:07:05" width="148px" height="148px">
+</image>
+<image path="images/titlepage.png" filesize="20021" filedate="2018-12-01 14:07:08" width="429px" height="720px">
+</image>
+</images>
